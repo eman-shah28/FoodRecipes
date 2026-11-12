@@ -6,7 +6,7 @@ The application allows users to browse a collection of delicious recipes and exp
 
 ## 👩‍💻 Developed By
 
-**Syeda Rutba Eman**
+**Eman Shah**
 
 ## 📱 About the Application
 
